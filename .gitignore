@@ -1,0 +1,18 @@
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+
+# Editor generated files
+*.swp
+
+# Secrets and keys
+.env
+
+# Images
+images_crop/*
+
+# pycache
+__pycache__/
+
