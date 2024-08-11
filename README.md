@@ -14,12 +14,12 @@ Follow the steps below to get started with the project.
 ### Installation
 1. Clone the repository:
     ```shell
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/Atharva-Gundawar/GUI-Automation.git
     ```
 
 2. Navigate to the project directory:
     ```shell
-    cd your-repo
+    cd GUI-Automation
     ```
 
 3. Rename the `.env_tmp` file to `.env` and add your API keys in the `.env` file.
